@@ -11,13 +11,13 @@ To connect Amiga IDE port to Slimline CD/DVD you will need adapter like this:
 | Manufacturer | Model | Form | Type |
 | --- | --- | --- | --- |
 | Panasonic | CW-8124-C* | Slot | CD-RW |
-| Sony Optiarc | AD-7640A(-DX) | Slot | DVD/CD-RW| - |
+| Sony Optiarc | AD-7640A(-DX) \([A](resources/sony-optiarc-jd06-amiga.jpg)\)| Slot | DVD/CD-RW| - |
 | TEAC | CD-224E(-RV3) | Tray | CD-RW | - |
-| QSI** | SBW-242C| Tray | DVD-ROM/CD-RW | - |
-| QSI** | SBW-242| Tray | DVD-ROM/CD-RW | - |
-| Philips | SDVD8431 | Tray | DVD+/-RW | - |
-| LG | GMA-4082N | Tray | DVD-R/CD-RW | - |
-| Pioneer | DVR-KD08RS | Tray | DVD-R/RW | - |
+| QSI** | [SBW-242C](resources/qsi-sbw-242c-uq81-m.jpg) \([A](resources/qsi-sbw-242c-uq81-m-amiga.jpg)\) | Tray | DVD-ROM/CD-RW | - |
+| QSI** | [SBW-242](resources/qsi-sbw-242-ux08-m.jpg) \([A](resources/qsi-sbw-242-ux08-m-amiga.jpg)\) | Tray | DVD-ROM/CD-RW | - |
+| Philips | [SDVD8431](resources/philips-sdvd8431.jpg) \([A](resources/philips-sdvd8431-amiga.jpg)\) | Tray | DVD+/-RW | - |
+| LG | [GMA-4082N](resources/lg-gma-4082n.jpg) \([A](resources/lg-gma-4082n-amiga.jpg)\)| Tray | DVD-R/CD-RW | - |
+| Pioneer | [DVR-KD08RS](resources/pioneer-dvr-kd08rs.jpg) \([A](resources/pioneer-dvr-kd08rs-amiga.jpg)\) | Tray | DVD-R/RW | - |
 
 \* Apple MacMini G4
 
