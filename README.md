@@ -10,9 +10,9 @@ To connect Amiga IDE port to Slimline CD/DVD you will need adapter like this:
 ## Devices:
 | Manufacturer | Model | Form | Type |
 | --- | --- | --- | --- |
-| Panasonic | CW-8124-C* | Slot | CD-RW |
-| Sony Optiarc | AD-7640A(-DX) \([A](resources/sony-optiarc-jd06-amiga.jpg)\)| Slot | DVD/CD-RW| - |
-| TEAC | CD-224E(-RV3) | Tray | CD-RW | - |
+| Panasonic | [CW-8124-C](resources/panasonic-cw-8124-c)* | Slot | CD-RW |
+| Sony Optiarc | [AD-7640A(-DX)](resources/sony-ad-7640a.jpg) \([A](resources/sony-optiarc-jd06-amiga.jpg)\)| Slot | DVD/CD-RW| - |
+| TEAC | [CD-224E(-RV3)](resources/teac-cd-224e.jpg) | Tray | CD-RW | - |
 | QSI** | [SBW-242C](resources/qsi-sbw-242c-uq81-m.jpg) \([A](resources/qsi-sbw-242c-uq81-m-amiga.jpg)\) | Tray | DVD-ROM/CD-RW | - |
 | QSI** | [SBW-242](resources/qsi-sbw-242-ux08-m.jpg) \([A](resources/qsi-sbw-242-ux08-m-amiga.jpg)\) | Tray | DVD-ROM/CD-RW | - |
 | Philips | [SDVD8431](resources/philips-sdvd8431.jpg) \([A](resources/philips-sdvd8431-amiga.jpg)\) | Tray | DVD+/-RW | - |
